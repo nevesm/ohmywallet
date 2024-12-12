@@ -17,3 +17,5 @@ Como o Next.js suporta essa exportação estática, ele pode ser implantado e ho
 Depois de rodar o `next build`, Next.js produzirá uma pasta [out](./out/) que contém os ativos HTML/CSS/JS para sua aplicação.
 
 ## Acessando o projeto na web
+Caso não consiga ler o HTML, acesse via web:
+https://ohmywallet.vercel.app/
